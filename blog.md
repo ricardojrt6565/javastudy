@@ -7,3 +7,7 @@ to make a game. Since the beginning of Freshman year, me and my partner always w
 ### So..
 We agreed upon the language Java, a powerful language that can help us create a decent enough game to feel good about. We also agreed to make a game similar to tower defense with our little twist.
 
+### Java
+I found that [Code academy](https://www.codecademy.com/learn)teaches a Java course and it's also 4 hours. I decided that that's good enough to get familiar with the syntax of the language and all. So that was our first step to creating this game, learning the Java from Code Academy. 
+I found out that it's not that different from Ruby, another coding language, the logic and everything seemed pretty familiar and I was in my comfort zone for some of the lessons in Code academy. 
+The obvious difference was the syntax for example,```class Main {public static void main(String[] args) { System.out.println("hello world"); } }```
